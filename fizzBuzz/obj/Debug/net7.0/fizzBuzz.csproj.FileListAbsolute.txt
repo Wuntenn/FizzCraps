@@ -1,0 +1,15 @@
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/bin/Debug/net7.0/fizzBuzz
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/bin/Debug/net7.0/fizzBuzz.deps.json
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/bin/Debug/net7.0/fizzBuzz.runtimeconfig.json
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/bin/Debug/net7.0/fizzBuzz.dll
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/bin/Debug/net7.0/fizzBuzz.pdb
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/obj/Debug/net7.0/fizzBuzz.csproj.AssemblyReference.cache
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/obj/Debug/net7.0/fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/obj/Debug/net7.0/fizzBuzz.AssemblyInfoInputs.cache
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/obj/Debug/net7.0/fizzBuzz.AssemblyInfo.cs
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/obj/Debug/net7.0/fizzBuzz.csproj.CoreCompileInputs.cache
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/obj/Debug/net7.0/fizzBuzz.dll
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/obj/Debug/net7.0/refint/fizzBuzz.dll
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/obj/Debug/net7.0/fizzBuzz.pdb
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/obj/Debug/net7.0/fizzBuzz.genruntimeconfig.cache
+/Users/wuntenn/Projects/fizzBuzz/fizzBuzz/obj/Debug/net7.0/ref/fizzBuzz.dll
